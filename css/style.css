@@ -18,6 +18,7 @@ body:active {
 }
 
 .donkey {
+	cursor: pointer;
 	width: 408px;
 	height: 654px;
 	margin: 150px auto;
